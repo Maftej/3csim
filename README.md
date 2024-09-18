@@ -6,7 +6,6 @@ I. We propose 3CSim for control assessment of AD models
 in controlled and deterministic environment. <br>
 II. We propose a taxonomy of advanced corner case scenarios implemented in our proposed simulation.
 
-
 ## Abstract
 We present the CARLA corner case simulation (3CSim) for evaluating autonomous driving (AD) systems within the CARLA simulator. 
 This framework is designed to address the limitations of traditional AD model training by focusing on non-standard, rare, 
